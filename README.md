@@ -8,4 +8,4 @@
 - mvn clean install and mvn spring-boot:run
     - this will install all the dependencies you need
 
-Tutorial for this repo can be found on medium: 
+Tutorial for this repo can be found on Dzone: https://dzone.com/articles/packaging-react-app-with-spring-boot
