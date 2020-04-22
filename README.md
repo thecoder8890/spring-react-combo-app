@@ -1,5 +1,5 @@
 # Spring Boot-React-Starter
-
+![Java CI with Maven](https://github.com/thecoder8890/spring-react-combo-app/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
 # This is a simple Spring Boot-React application
 
 
